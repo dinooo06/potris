@@ -38,6 +38,8 @@ We take reasonable measures to protect your information but cannot guarantee com
 
 Our game is intended for users aged 13 and older. We do not knowingly collect personal information from children under 13.
 
+Users under 18 (or the age of majority in their jurisdiction) must have parental consent to use Potris and make any in-app purchases. All purchases are handled through Google Play or Apple App Store, which enforce parental controls and consent mechanisms.
+
 ## 7. Changes to This Policy
 
 We may update this Privacy Policy occasionally. We will notify you by updating the effective date at the top of this page.
